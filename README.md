@@ -4,7 +4,7 @@
 
 # R O M A N &nbsp; F A L D I N
 
-### `Senior Full-Stack Developer`
+### Senior Full-Stack Developer
 
 **Building digital products, scalable backends & meaningful user experiences.**
 
@@ -12,9 +12,6 @@
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,7 +23,6 @@
 
 </div>
 
-<!-- ABOUT -->
 ## `01` / About Me
 
 ```typescript
@@ -34,7 +30,7 @@ const roman = {
   role: "Senior Full-Stack Developer",
   experience: "6+ years",
   location: "Ukraine 🇺🇦",
-  focus: [
+  specialization: [
     "SaaS Applications",
     "Scalable Backend Systems",
     "Industrial IoT",
@@ -43,7 +39,7 @@ const roman = {
   frontend: ["React", "Next.js", "TypeScript"],
   backend: ["Node.js", "NestJS", "Express", "Python", "FastAPI"],
   databases: ["PostgreSQL", "MongoDB", "Redis"],
-  cloud: ["AWS", "Docker"]
+  infrastructure: ["AWS", "Docker"]
 };
 ```
 
@@ -53,8 +49,8 @@ My experience spans product development, SaaS platforms, third-party integration
 
 I enjoy working across the entire stack — turning complex requirements into reliable software.
 
-- 🔭 Exploring scalable architectures and modern backend technologies.
-- ⚡ Interested in SaaS, cloud infrastructure, and data-driven applications.
+- 🔭 Focused on scalable applications and modern backend technologies.
+- ⚡ Interested in SaaS, cloud infrastructure, and data-driven solutions.
 - 🌍 Open to remote Full-Stack Developer opportunities.
 
 ---
@@ -63,19 +59,25 @@ I enjoy working across the entire stack — turning complex requirements into re
 
 <div align="center">
 
-### FRONTEND
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css" />
 
-### BACKEND
+<br/><br/>
+
+**BACKEND**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
 
-### DATABASES
+<br/><br/>
+
+**DATABASES**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
 
-### INFRASTRUCTURE & TOOLS
+<br/><br/>
+
+**INFRASTRUCTURE & TOOLS**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,supabase" />
 
@@ -93,7 +95,7 @@ I enjoy working across the entire stack — turning complex requirements into re
 
 **SaaS · Email Signature Generator**
 
-A product-oriented SaaS platform for creating professional email signatures with customizable templates and branded layouts.
+A SaaS platform for creating professional email signatures with customizable templates and branded layouts.
 
 **Contributions**
 - Developed reusable React components.
@@ -126,33 +128,15 @@ An industrial monitoring platform for a Norwegian thermal energy storage company
 
 ---
 
-## `04` / GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## `05` / Currently
+## `04` / Engineering Interests
 
 ```text
-▸ Building       Scalable web applications
-▸ Improving      Backend performance & architecture
-▸ Exploring      Cloud technologies & distributed systems
-▸ Interested in  Challenging engineering problems
+▸ Scalable application architecture
+▸ Backend performance optimization
+▸ Database design and optimization
+▸ Cloud infrastructure and deployment
+▸ API design and third-party integrations
+▸ Data-intensive applications
 ```
 
 ---
